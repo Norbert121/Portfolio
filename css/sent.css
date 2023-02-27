@@ -1,0 +1,19 @@
+section.contact-thanks {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.contact-thanks h1 {
+    text-align: center;
+}
+
+.contact-thanks p {
+    text-align: center;
+}
+
+.contact-thanks img {
+    padding-top: 15%;
+    transform: scale(2);
+}

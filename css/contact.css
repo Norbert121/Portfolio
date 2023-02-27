@@ -1,0 +1,50 @@
+.contact-form {
+    max-width: 500px;
+    margin: auto;
+    padding: 10%;
+}
+
+/* Style dla sekcji nagłówka formularza */
+.contact-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Style dla tytułu formularza */
+h2.contact-title {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+/* Style dla etykiet pól formularza */
+.contact-label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* Style dla pól formularza */
+.contact-input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+/* Style dla przycisku "Wyślij" */
+.contact-btn {
+    background-color: #fcc42c;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Style dla komunikatów błędów */
+.contact-error {
+    color: red;
+    margin-bottom: 10px;
+}
