@@ -89,3 +89,4 @@ myDate.innerHTML = yes;
 
 //   image.src = images[index];
 // });
+
